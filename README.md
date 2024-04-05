@@ -1,2 +1,3 @@
 # Netflix-Clone
-I developed the Netflix Clone using HTML and CSS 
+Developed the Netflix Clone using HTML and CSS 
+
